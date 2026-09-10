@@ -1,0 +1,1 @@
+import{Po as i,Wt as o}from"./BUJChu38.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};
