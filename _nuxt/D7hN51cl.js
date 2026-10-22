@@ -1,0 +1,1 @@
+import{Js as i,cn as o}from"./CK3IWCJN.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};
