@@ -1,0 +1,1 @@
+import{Ir as r}from"./DkU2MfM5.js";function o(o){!1!==o&&r.error(String(o))}export{o as t};
