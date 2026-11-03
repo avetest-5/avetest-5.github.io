@@ -1,0 +1,1 @@
+import{t as r}from"./BEQ6YA4F.js";function t(t){!1!==t&&r.error(String(t))}export{t};

@@ -1,0 +1,1 @@
+import{d as r,l as a}from"./BfhUYj3v.js";import{k as e}from"./6LbxYvOj.js";import{t as s}from"./DZ8S0lCE.js";var m=e({__name:"index",setup:e=>(s({middleware:a(()=>r("/hyperliquid/BTCUSD",{replace:!0}))}),()=>{})});export{m as default};

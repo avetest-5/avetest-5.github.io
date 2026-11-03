@@ -1,0 +1,1 @@
+import{k as a,mt as m,v as s}from"./6LbxYvOj.js";import{t}from"./CrETO7L02.js";import{t as r}from"./DMpr3PCL2.js";var e=a({name:"pump",__name:"index",setup:a=>(r("home"),(a,r)=>(m(),s(t,{variant:"page"})))});export{e as default};
